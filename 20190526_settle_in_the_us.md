@@ -160,14 +160,14 @@
 
 ## 付録
 * CATV/Internet
- * アパート関係が一通り落ち着いた頃、[Xfinity](https://www.xfinity.com/)のDouble Playを契約した。Xfinityはデフォルトでモデムが公衆無線LANのアクセスポイントになってしまうのでそれを解除し、自分用のSSIDをステルス化。するとiPhoneはちゃんと自動接続してくれるのだが、なぜだがMac Book Airが自動接続しれくれなくなり未だ原因不明。
- * 合わせて[Smart TV](https://www.samsung.com/us/support/owners/product/2018-uhd-smart-tv-nu6950)も購入。外付けディスプレイとしても利用することを念頭に、年初に発表された[AirPlay2対応予定](https://www.apple.com/ios/home/accessories/#section-tv)のものにした。5月14日にファームウェアのアップデートで利用可能になったとの[ニュースリリース](https://news.samsung.com/global/samsung-becomes-first-tv-manufacturer-to-launch-the-apple-tv-app-and-airplay-2)があったが未だ配信されていない。
+  * アパート関係が一通り落ち着いた頃、[Xfinity](https://www.xfinity.com/)のDouble Playを契約した。Xfinityはデフォルトでモデムが公衆無線LANのアクセスポイントになってしまうのでそれを解除し、自分用のSSIDをステルス化。するとiPhoneはちゃんと自動接続してくれるのだが、なぜだがMac Book Airが自動接続しれくれなくなり未だ原因不明。
+  * 合わせて[Smart TV](https://www.samsung.com/us/support/owners/product/2018-uhd-smart-tv-nu6950)も購入。外付けディスプレイとしても利用することを念頭に、年初に発表された[AirPlay2対応予定](https://www.apple.com/ios/home/accessories/#section-tv)のものにした。5月14日にファームウェアのアップデートで利用可能になったとの[ニュースリリース](https://news.samsung.com/global/samsung-becomes-first-tv-manufacturer-to-launch-the-apple-tv-app-and-airplay-2)があったが未だ配信されていない。
 * 食事
- * 18時にはだいたい帰宅しているため、のんびり和洋中なんでも作ってみている。野菜・肉・魚など食材はまとめ買いして日々消費しつつ、小分けにして冷凍。渡米後2ヶ月過ぎたが、食べたいと思う日本食は美味しい寿司ぐらいか。寿司ではないが、ワシントンD.C.に行ったら[POKE](http://www.abunaipoke.com/)でも食べよう。
- * メリーランド州では、スーパーマーケットなどで酒類の販売は認められておらず、酒屋でしか基本的に買えない。ワインは好みにもよるが、[ボックス型の容量の多いもの](http://www.botabox.com/content/bota-box/en_us/wine/shiraz.html)などを買っておくと便利。
+  * 18時にはだいたい帰宅しているため、のんびり和洋中なんでも作ってみている。野菜・肉・魚など食材はまとめ買いして日々消費しつつ、小分けにして冷凍。渡米後2ヶ月過ぎたが、食べたいと思う日本食は美味しい寿司ぐらいか。寿司ではないが、ワシントンD.C.に行ったら[POKE](http://www.abunaipoke.com/)でも食べよう。
+  * メリーランド州では、スーパーマーケットなどで酒類の販売は認められておらず、酒屋でしか基本的に買えない。ワインは好みにもよるが、[ボックス型の容量の多いもの](http://www.botabox.com/content/bota-box/en_us/wine/shiraz.html)などを買っておくと便利。
 * 散髪
- * 渡米前に100円ショップで買ったカット用ハサミセットで洗面台で鏡を見ながら切ってみたが(多分)違和感なく切れている。
+  * 渡米前に100円ショップで買ったカット用ハサミセットで洗面台で鏡を見ながら切ってみたが(多分)違和感なく切れている。
 * 風呂
- * 基本的にシャワーで済ませている。週末気が向いた時に湯をはってつかる。掃除をし易くするために[ホース付きのシャワーヘッド](https://www.amazon.com/gp/product/B071D7WCT8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)に交換した。
+  * 基本的にシャワーで済ませている。週末気が向いた時に湯をはってつかる。掃除をし易くするために[ホース付きのシャワーヘッド](https://www.amazon.com/gp/product/B071D7WCT8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)に交換した。
 * 週末の過ごし方
- * サッカー([Montgomery郡のリーグ戦](http://www.teamsideline.com/sites/montgomerycountymd/schedule/236039/Adult-Mens-CoRec-Soccer-Mens-Open-Division-2)にSamurai Kidsのメンバとして参加)、近所でランニング&筋トレ、[CTF](https://ctftime.org/team/4894)、MLS観戦(ルーニー率いる[D.C. United](https://www.dcunited.com/)推し)、テレビ鑑賞(ニュース、MLB([Nats](https://www.mlb.com/nationals)推し)、[National Geographic](https://www.nationalgeographic.com/tv/live/channel/NGC/)や、Prime Videoで映画やドラマ([THE GOOD WIFE](https://www.cbs.com/shows/the_good_wife/)コンプ))、読書、たまに研究、稀にゴルフ(3回行ったがまだ100切らない素人)。
+  * サッカー([Montgomery郡のリーグ戦](http://www.teamsideline.com/sites/montgomerycountymd/schedule/236039/Adult-Mens-CoRec-Soccer-Mens-Open-Division-2)にSamurai Kidsのメンバとして参加)、近所でランニング&筋トレ、[CTF](https://ctftime.org/team/4894)、MLS観戦(ルーニー率いる[D.C. United](https://www.dcunited.com/)推し)、テレビ鑑賞(ニュース、MLB([Nats](https://www.mlb.com/nationals)推し)、[National Geographic](https://www.nationalgeographic.com/tv/live/channel/NGC/)や、Prime Videoで映画やドラマ([THE GOOD WIFE](https://www.cbs.com/shows/the_good_wife/)コンプ))、読書、たまに研究、稀にゴルフ(3回行ったがまだ100切らない素人)。
