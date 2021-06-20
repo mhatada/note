@@ -42,7 +42,7 @@ GustavusへはAlaska Seaplanesのフライト。ここからは現地ツアー�
 
 ![Gustavusへのセスナ](https://github.com/mhatada/note/blob/master/images/ak008.jpg)
 
-[![From Juneau to Gustavus](https://www.youtube.com/embed/evbNVRan8dI/default.jpg)](https://www.youtube.com/embed/evbNVRan8dI)
+[![From Juneau to Gustavus](https://img.youtube.com/vi/evbNVRan8dI/default.jpg)](https://www.youtube.com/embed/evbNVRan8dI)
 
 20分ほどのフライトでGustavusの空港に到着。ロッジのシャトルバスが迎えに来てるはずだがいない。
 
@@ -74,7 +74,7 @@ Google Fiを使っているが付近は圏外、Wifiはメインの建物のみ�
 ホエールウォッチング
 ![Eagle](https://github.com/mhatada/note/blob/master/images/ak016.jpg)
 
-[![Blow to Tail](https://www.youtube.com/embed/jjQUrznLA3U/default.jpg)](https://www.youtube.com/embed/jjQUrznLA3U)
+[![Blow to Tail](https://img.youtube.com/vi/jjQUrznLA3U/default.jpg)](https://www.youtube.com/embed/jjQUrznLA3U)
 
 ![Tail Shot](https://github.com/mhatada/note/blob/master/images/ak017.jpg)
 ![Whale Blow](https://github.com/mhatada/note/blob/master/images/ak018.jpg)
@@ -94,12 +94,12 @@ Google Fiを使っているが付近は圏外、Wifiはメインの建物のみ�
 ![Margerie Glacier](https://github.com/mhatada/note/blob/master/images/ak027.jpg)
 ![Margerie Glacier](https://github.com/mhatada/note/blob/master/images/ak028.jpg)
 
-[![Margerie Glacier Icefalls](https://www.youtube.com/embed/VuTMEudGBSM/default.jpg)](https://www.youtube.com/embed/VuTMEudGBSM)
+[![Margerie Glacier Icefalls](https://img.youtube.com/vi/VuTMEudGBSM/default.jpg)](https://www.youtube.com/embed/VuTMEudGBSM)
 
 ![Margerie Glacier after Icefalls](https://github.com/mhatada/note/blob/master/images/ak029.jpg)
 ![Lamplugh Glacier a.k.a. Blue Glacier](https://github.com/mhatada/note/blob/master/images/ak030.jpg)
 
-[![Black Bear walking on the shore](https://www.youtube.com/embed/tAu0AkFHScY/default.jpg)](https://www.youtube.com/embed/tAu0AkFHScY)
+[![Black Bear walking on the shore](https://img.youtube.com/vi/tAu0AkFHScY/default.jpg)](https://www.youtube.com/embed/tAu0AkFHScY)
 
 ![Falls](https://github.com/mhatada/note/blob/master/images/ak031.jpg)
 ![Route Map](https://github.com/mhatada/note/blob/master/images/ak032.jpg)
