@@ -69,17 +69,19 @@ Google Fiを使っているが付近は圏外、Wifiはメインの建物のみ�
 
 ## Day 4 (June 2, 2021)
 
-停電
-
-ホエールウォッチング
+朝7時前に朝食を済ませてロビーのソファDQWをやっていたところ、バスンという小さい音とともに停電。昨日の夜も少しの間だけ停電があったし、すぐ復旧するかと思いロッジに戻る。小雨の中、近場のトレイルを歩く気もせず、11時半に迎えが来る予定のホエールウォッチングのことを考えると、モバイルバッテリーは充電済とはいえスマホの充電を節約しておかないと、いざその時に写真も撮れないとかになりかねない。暗いロッジで何もすることがなく、ノートPCを持ってロビーに行って、このエントリーを書き始めた。ロビーではスタッフが宿泊者に、復旧見込みは不明であり電気と電波が欲しい人にはGustavusへのシャトルバスを出す、と。え？ひょっとして今夜ここで泊まれないとかるの？と不安がよぎる。ま、ヘッドライトも持ってるしロッジでベッドに入ってれば多少寒くても大丈夫だし、きっと可能な範囲で食料も提供してくれるだろうと作業を続ける。結局11時頃に停電から復旧、拍手が沸き起こる。すぐさまスマホを充電していると、自分の名を呼ばれた気がして入り口の方を見ると、ロックな感じのおっちゃんがいた。呼んだ？って話しかけてみると、ロッジに電話したけど(停電で)誰も出なかったから、少し早めに迎えに来たけど早めに出発する？と聞かれ、慌ててノートPCをロッジに置きに行って車に乗り込む。車中、おっちゃんはかつてエンジニアだったらしく、VPNがどうのこうのColonial Pipelineがどうのこうの5Gがどうのこうのと色々聞いてくるので、20分ばかり話に花が咲いた。Gustavus Dockに着くと、間近でイーグルがお出迎え。
 ![Eagle](https://github.com/mhatada/note/blob/master/images/ak016.jpg)
 
+ホエールウォッチングは[TAZ](https://www.tazwhalewatching.com/)のツアーで4組7名でスタート！Humpback(座頭鯨)やMinke(ミンク鯨)が潜る前のBlow(潮吹き)を見つけては船は少し近づき停止する。鯨が遠のいて行くと、別のスポット目掛けて進む、の繰り返し。潮吹きからTail Shot(潜る時に尾を高く水面から出す)滑らかな動きが美しい。
 [![Blow to Tail](https://img.youtube.com/vi/jjQUrznLA3U/hqdefault.jpg)](https://www.youtube.com/embed/jjQUrznLA3U)
 
+15年この仕事をやっているという船長は、冗談を交えながら鯨のミニチュア模型なども使いながらいろんな解説をしてくれる。鯨の姿を捉えると乗客はデッキに出て重い思いに双眼鏡で見たり、スマホや一眼レフで撮影したりする。気温はそれほど低くはない(たし摂氏7、8度だった気がする)が、デッキで海風にさらされているとかなり寒い。朝の停電のおかげでロッジの売店で食料を買えなかったのでランチはJuneauで買ってきたスニッカーズ。でも船内には温かいコーヒーのポットと、スナックがいっぱいあったので4時間くらいのクルーズも無理なく楽しめた。2時の方向にBlow！の声で、またゾロゾロとデッキに出る。数えてないけど多くの鯨をゆっくりと見ることができて満足だった。揺れる船上で双眼鏡＋スマホの撮影はとても難しいので早々に諦めたが、普通にスマホでズームも使いながら撮ってもこれぐらいは撮れる。記念に何枚か撮ったらあとは双眼鏡でじっくり眺めるのがおすすめ。
 ![Tail Shot](https://github.com/mhatada/note/blob/master/images/ak017.jpg)
 ![Whale Blow](https://github.com/mhatada/note/blob/master/images/ak018.jpg)
 ![Another Tail Shot](https://github.com/mhatada/note/blob/master/images/ak019.jpg)
 ![TAZ](https://github.com/mhatada/note/blob/master/images/ak020.jpg)
+
+Dockに帰り着くと、同じおっちゃんが迎えに来てた。帰りはGustavusの街のことを話してくれた。人口は500人、酒屋は平日日中の3時間のみ営業、ガソリンは1ガロン$10と都市部の約3倍、警察は仕事が無いからいない、etc. ロッジに戻り冷えた体をロビーの暖炉で温め、ディナーにチリビーンズのスープとチキン（ソースや付け合わせは基本前日のサーモンと一緒）をいただく。
 
 
 ## Day 5 (June 3, 2021)
@@ -105,7 +107,11 @@ Google Fiを使っているが付近は圏外、Wifiはメインの建物のみ�
 ![Route Map](https://github.com/mhatada/note/blob/master/images/ak032.jpg)
 ![St. Theodosius](https://github.com/mhatada/note/blob/master/images/ak033.jpg)
 
+From Gustavus to Juneau
+
 ![Mendenhall Glacier](https://github.com/mhatada/note/blob/master/images/ak034.jpg)
+
+At the Alaskan Hotel and Bar
 
 ![Juneauper](https://github.com/mhatada/note/blob/master/images/ak035.jpg)
 
@@ -126,10 +132,10 @@ Perseverance Trail
 ![Gold Creek](https://github.com/mhatada/note/blob/master/images/ak042.jpg)
 ![Tunnel](https://github.com/mhatada/note/blob/master/images/ak043.jpg)
 
+Juneau Downtown
+
 ![Tracy's King Crab Shack](https://github.com/mhatada/note/blob/master/images/ak044.jpg)
-
 ![Steps](https://github.com/mhatada/note/blob/master/images/ak045.jpg)
-
 ![Juneau Downtown](https://github.com/mhatada/note/blob/master/images/ak046.jpg)
 
 
