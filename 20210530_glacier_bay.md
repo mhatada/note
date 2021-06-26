@@ -14,20 +14,20 @@
 
 06:30->09:45->11:00とSEA->JNU便の出発遅延のSMSが断続的に届き、まさか今日も危ない？と不安を感じたものの11:00少し遅れて出発し、ジュノー着。雨。
 
-![ジュノー着陸間際の風景](https://github.com/mhatada/note/blob/master/images/ak001.jpg)
+![ジュノー着陸間際の風景](/images/ak001.jpg)
 
 このまま[Mendenhall Glacier](https://www.fs.usda.gov/detail/tongass/about-forest/offices/?cid=stelprdb5400800)に行って軽くトレッキングしよう。そう思ってアプリを起動するもUberはいなかった。タクシーに乗り込み15分ほどで到着。2〜3時間トレッキングしたらダウンタウンのホテルに行きたいからと、運転手のRaulに電話番号を聞いておいた。
 
 Mendenhall Glacierは湖に流れ込む氷河であり、Nugget Fallsまで往復2マイルのルートと周辺を気が向くままに歩き回り、ところどころで立ち止まっては、見る場所で表情を変える氷河に見惚れる時間をゆっくりと過ごした。レイン・ポンチョとレイン・パンツを着ているもののやはり雨はつらい。途中出会ったパーク・レンジャーは「多くの人がこの氷河を見て思ったより小さいと感動が薄い」と少し寂しそうに言っていたので「きっと迫力ある写真や映像に慣れていて全景の一部である氷河にギャップを感じるからじゃないかな」と氷河のスケールや長い時間をかけてゆっくりと動く感動を伝えると喜んでくれた。
 
-![Visitor CenterからのMendenhall GlacierとNugget Falls](https://github.com/mhatada/note/blob/master/images/ak002.jpg)
-![Nugget Falls Trail](https://github.com/mhatada/note/blob/master/images/ak003.jpg)
+![Visitor CenterからのMendenhall GlacierとNugget Falls](/images/ak002.jpg)
+![Nugget Falls Trail](/images/ak003.jpg)
 
 Raulに電話して迎えに来てもらい、ジュノーでの拠点であるThe Alaskan Hotelへ。トイレ・風呂共同の部屋で$90/泊。ここは金掘りの宿営地として栄えたジュノーでも最も古い1913年創業で、ところどころ廊下や階段の床が盛り上がっていたり傾いていたり、廊下ですれ違ったお爺さんはここに住んでると言っていたし、ヴィクトリア調の内装と相まって謎めいた雰囲気のあるホテルである。
 
-![外観](https://github.com/mhatada/note/blob/master/images/ak004.jpg)
-![ロビー](https://github.com/mhatada/note/blob/master/images/ak005.jpg)
-![廊下と階段](https://github.com/mhatada/note/blob/master/images/ak006.jpg)
+![外観](/images/ak004.jpg)
+![ロビー](/images/ak005.jpg)
+![廊下と階段](/images/ak006.jpg)
 
 雨の中あまりウロウロしたくもなく、すぐ近くのDeckhand Dave's Fish Tacosで、地元のDevil's Club IIPAとRockfishのフィッシュ＆チップスで腹を満たす。可もなく不可もなくという感じ。
 
@@ -35,46 +35,46 @@ Raulに電話して迎えに来てもらい、ジュノーでの拠点であるT
 
 朝、あちこちにある[Heritage Coffee](https://www.heritagecoffee.com/)でスコーンをコーヒーで流し込みあてもなく散歩。ボロボロのレイン・ポンチョを買い替えようかとアウトドア・ショップに行ったがポンチョは無く、他の店でも見当たらなかったので諦めた。海沿いの公園から山の上に登る[Mt. Roberts Tramway](https://goldbelttram.com/)はまだ観光客も少ないためか動いている気配もなかった。
 
-![鯨のモニュメント](https://github.com/mhatada/note/blob/master/images/ak007.jpg)
+![鯨のモニュメント](/images/ak007.jpg)
 
 Glacier Bay National Parkへの入り口となるGustavusへのフライトは16:00発。散歩中に見かけたバス停でルートと時刻表を見ると、空港行きは無いけど空港近くに停まるバス($2)はあるようだ。のんびり昼食をとりながらフライトと翌日のホエール・ウォッチングのリコンファームを電話して、バスをGoogle Mapsでも確認して、バス停に行ったら目当ての4番バスがちょうど来た。運転手に聞いたところ、この後にすぐ来るEXPRESSの方がかなり早く着くらしいのでそっちを待つことに。すぐにEXPRESSバスは来て乗り込む。他の乗客はみなパスを見せていて、現金で払っている人はいない。観光客はタクシーかレンタカーだろうなと思いつつも、見知らぬ土地でのバス乗車は行き先や所要時間など不安もあってスリリングで楽しい。バス内ではバス停の表示やアナウンスも無いので、Google Mapsを見ながら目的地周辺で窓際に貼られた黄色い線を引っ張り次で降りる意思表示をする。空港までの10分くらいの歩きの途中、ドライブスルーのコーヒーショップで車の後ろに並んでウォークインでコーヒーを買ってみた。何かを言われることもなく笑顔でコーヒーを売ってくれた。
 
 GustavusへはAlaska Seaplanesのフライト。ここからは現地ツアーの行程になる。チェックインして待っていたがやはり遅延。でも40分くらいでやっと呼び出しがあり、スーパーで買い物帰りのおじさんと案内係について歩いて行った先には自分史上最小に並ぶ小型セスナが待っていた。そして案内係だと思っていた人はパイロットだった。
 
-![Gustavusへのセスナ](https://github.com/mhatada/note/blob/master/images/ak008.jpg)
+![Gustavusへのセスナ](/images/ak008.jpg)
 
 [![From Juneau to Gustavus](https://img.youtube.com/vi/evbNVRan8dI/hqdefault.jpg)](https://www.youtube.com/embed/evbNVRan8dI)
 
 20分ほどのフライトでGustavusの空港に到着。ロッジのシャトルバスが迎えに来てるはずだがいない。
 
-![Gustavusの空港](https://github.com/mhatada/note/blob/master/images/ak009.jpg)
+![Gustavusの空港](/images/ak009.jpg)
 
 フライトが遅延したから帰っちゃったかと思いロッジに電話してみるも出ない。電話番号とともに留守電は残しておいた。10マイル近くあるからさすがに歩く気もしない。Alaska Seaplanesのおばさんがいたので、どうしたらいいと思うか尋ねてみたら、よくロッジが依頼しているタクシーがあって、こういう時はロッジの支払いで乗せていってくれるみたい、ということでタクシーの名刺をもらった。早速そのドライバーのKrystalにかけてみるも出ない。電話番号とともに留守電は残しておいた。さて困った。駐車場で大量の荷物をピックアップトラックに積んでいたキャンプに来たのであろう家族ももう行ってしまった。最悪、さっきのAlaska Seaplanesのおばさんに頼み込んで、仕事が終わってから乗せて行ってもらおうと考えていた。するとおばさんが建物から出てきて、ちょうどKrystalから電話があったから聞いてみてと電話を持ってきてくれたのだ。Krystalは20分くらいで迎えに行ける、ロッジまで$15と言う。いやいやロッジに請求してよ、と言ってみたものの名刺とレシート渡すから自分でロッジに返金交渉して、と。たかだか$15の交渉をしてる場合じゃないと、OKした。Krystalはとても感じの良いおばさんで、ロッジまでの20分もGustavusのことや、この右側はたまにムースが見れるわよ、とか、セスナの乗り心地とか陽気な会話を楽しんだ。そして、マネージャに確認とれたから支払いは不要とのことで、自分がマネージャじゃないのですぐ判断できなかったらしい。
 
 [Glacier Bay Lodge](https://www.visitglacierbay.com/lodging-camping/glacier-bay-lodge/)はGlacier Bay National Park内にある唯一の宿泊施設。受付やVisitor Center、レストランがあるメインの建物は各ロッジとウッドデッキで繋がっていて雰囲気も素晴らしい。チェックインを済ませ、早速近辺のトレイルを散歩。案内図を見ていると、この近辺も含めGlacier Bay全体が250年前は氷河に覆われていたらしいことを知ると、ここに来れたことが嬉しいような悲しいような複雑な気分だった。
 
-![メインの建物](https://github.com/mhatada/note/blob/master/images/ak010.jpg)
-![ロッジ](https://github.com/mhatada/note/blob/master/images/ak011.jpg)
-![入り江沿いのトレイルから](https://github.com/mhatada/note/blob/master/images/ak012.jpg)
+![メインの建物](/images/ak010.jpg)
+![ロッジ](/images/ak011.jpg)
+![入り江沿いのトレイルから](/images/ak012.jpg)
 
 夕食はアラスカといえばサーモン！ソースとの相性が抜群で美味しかった。当然のごとくAlaskan White(ビール)を飲む。食後に外のデッキで美しい夕焼けを眺める。直前に買ってきた[スマホアダプタ付の双眼鏡](https://www.amazon.com/dp/B07VLXKZ33?psc=1&ref=ppx_yo2_dt_b_product_details)+三脚+Bluetoothシャッターで、双眼鏡越しの撮影の練習を兼ねて撮っていたら、周りの人たちから関心を集めてしまった。
 
-![双眼鏡+スマホで撮影した夕焼け](https://github.com/mhatada/note/blob/master/images/ak013.jpg)
+![双眼鏡+スマホで撮影した夕焼け](/images/ak013.jpg)
 
 Google Fiを使っているが付近は圏外、Wifiはメインの建物のみ利用可能。21時頃にメインの建物が閉まったのでロッジに戻り、シャワーを浴びて、Juneauで買ってきたワインを飲みながらロッジや国立公園のパンフレットを見たり、翌日のホエールウォッチングに行く荷物を準備したりしていたら、ふとドアスコープで外(西側)を見てみると赤い！22時過ぎのサンセットを見に入り江沿いまで行ってみると穏やかな水面が赤く染まり、なんとも美しい瞬間だった。
 
-![22時ごろのサンセット](https://github.com/mhatada/note/blob/master/images/ak014.jpg)
+![22時ごろのサンセット](/images/ak014.jpg)
 
 余韻に浸りながらゆっくりとロッジに入ると、静寂の中、これまたなんとも不思議な「森の中のベッドルーム」が待っていた。
 
-![森の中のベッドルーム](https://github.com/mhatada/note/blob/master/images/ak015.jpg)
+![森の中のベッドルーム](/images/ak015.jpg)
 
 
 ## Day 4 (June 2, 2021)
 
 朝7時前に朝食を済ませてロビーのソファDQWをやっていたところ、バスンという小さい音とともに停電。昨日の夜も少しの間だけ停電があったし、すぐ復旧するかと思いロッジに戻る。小雨の中、近場のトレイルを歩く気もせず、11時半に迎えが来る予定のホエールウォッチングのことを考えると、モバイルバッテリーは充電済とはいえスマホの充電を節約しておかないと、いざその時に写真も撮れないとかになりかねない。暗いロッジで何もすることがなく、ノートPCを持ってロビーに行って、このエントリーを書き始めた。ロビーではスタッフが宿泊者に、復旧見込みは不明であり電気と電波が欲しい人にはGustavusへのシャトルバスを出す、と。え？ひょっとして今夜ここで泊まれないとかるの？と不安がよぎる。ま、ヘッドライトも持ってるしロッジでベッドに入ってれば多少寒くても大丈夫だし、きっと可能な範囲で食料も提供してくれるだろうと作業を続ける。結局11時頃に停電から復旧、拍手が沸き起こる。すぐさまスマホを充電していると、自分の名を呼ばれた気がして入り口の方を見ると、ロックな感じのおっちゃんがいた。呼んだ？って話しかけてみると、ロッジに電話したけど(停電で)誰も出なかったから、少し早めに迎えに来たけど早めに出発する？と聞かれ、慌ててノートPCをロッジに置きに行って車に乗り込む。車中、おっちゃんはかつてエンジニアだったらしく、VPNがどうのこうのColonial Pipelineがどうのこうの5Gがどうのこうのと色々聞いてくるので、20分ばかり話に花が咲いた。Gustavus Dockに着くと、間近でイーグルがお出迎え。
 
-![Eagle](https://github.com/mhatada/note/blob/master/images/ak016.jpg)
+![Eagle](/images/ak016.jpg)
 
 ホエールウォッチングは[TAZ](https://www.tazwhalewatching.com/)のツアーで4組7名でスタート！Humpback(座頭鯨)やMinke(ミンク鯨)が潜る前のBlow(潮吹き)を見つけては船は少し近づき停止する。鯨が遠のいて行くと、別のスポット目掛けて進む、の繰り返し。潮吹きからTail Shot(潜る時に尾を高く水面から出す)滑らかな動きが美しい。
 
@@ -82,70 +82,113 @@ Google Fiを使っているが付近は圏外、Wifiはメインの建物のみ�
 
 15年この仕事をやっているという船長は、冗談を交えながら鯨のミニチュア模型なども使いながらいろんな解説をしてくれる。鯨の姿を捉えると乗客はデッキに出て重い思いに双眼鏡で見たり、スマホや一眼レフで撮影したりする。気温はそれほど低くはない(たし摂氏7、8度だった気がする)が、デッキで海風にさらされているとかなり寒い。朝の停電のおかげでロッジの売店で食料を買えなかったのでランチはJuneauで買ってきたスニッカーズ。でも船内には温かいコーヒーのポットと、スナックがいっぱいあったので4時間くらいのクルーズも無理なく楽しめた。2時の方向にBlow！の声で、またゾロゾロとデッキに出る。数えてないけど多くの鯨をゆっくりと見ることができて満足だった。揺れる船上で双眼鏡＋スマホの撮影はとても難しいので早々に諦めたが、普通にスマホでズームも使いながら撮ってもこれぐらいは撮れる。記念に何枚か撮ったらあとは双眼鏡でじっくり眺めるのがおすすめ。
 
-![Tail Shot](https://github.com/mhatada/note/blob/master/images/ak017.jpg)
-![Whale Blow](https://github.com/mhatada/note/blob/master/images/ak018.jpg)
-![Another Tail Shot](https://github.com/mhatada/note/blob/master/images/ak019.jpg)
-![TAZ](https://github.com/mhatada/note/blob/master/images/ak020.jpg)
+![Tail Shot](/images/ak017.jpg)
+![Whale Blow](/images/ak018.jpg)
+![Another Tail Shot](/images/ak019.jpg)
+![TAZ](/images/ak020.jpg)
 
 Dockに帰り着くと、同じおっちゃんが迎えに来てた。帰りはGustavusの街のことを話してくれた。人口は500人、酒屋は平日日中の3時間のみ営業、ガソリンは1ガロン$10と都市部の約3倍、警察は仕事が無いからいない、etc. ロッジに戻り冷えた体をロビーの暖炉で温め、ディナーにチリビーンズのスープとチキン（ソースや付け合わせは基本前日のサーモンと一緒）をいただく。
 
 
 ## Day 5 (June 3, 2021)
 
-氷河クルーズ
-![Sea Lion](https://github.com/mhatada/note/blob/master/images/ak021.jpg)
-![ペンギンの仲間](https://github.com/mhatada/note/blob/master/images/ak022.jpg)
-![Mountain Goat](https://github.com/mhatada/note/blob/master/images/ak023.jpg)
-![Brown Bear](https://github.com/mhatada/note/blob/master/images/ak024.jpg)
-![Help](https://github.com/mhatada/note/blob/master/images/ak025.jpg)
-![Margerie Glacier](https://github.com/mhatada/note/blob/master/images/ak026.jpg)
-![Margerie Glacier](https://github.com/mhatada/note/blob/master/images/ak027.jpg)
-![Margerie Glacier](https://github.com/mhatada/note/blob/master/images/ak028.jpg)
+朝7時にロッジから歩いてすぐのBatlett Cove集合で、とうとう念願の[氷河クルーズ](https://www.visitglacierbay.com/tours/glacier-bay-day-tour/)に出発する。15:30に船は戻ってきてロッジで預けているバックパックを受け取り、車でGustvausに送ってもらって、16:35にはJuneauへのセスナが飛ぶ。今日何か起きるとしたらセスナに間に合わないというのが有力だ。明日は予備日のようなものだし、その時はその時でここにもう一泊できるとしたらそれはそれで嬉しいし、そしたら明日の朝から半日でシーカヤックもできる、なんて妄想だけ先にしていたが、概ね予定通りJuneauに帰るのだった。
+
+
+氷河クルーズの乗客はおよそ30人といったところだろうか。Bartlett Coveを出た船はGlacier Bayを北上していく。レンジャーのColleenが地図にルートを書き込んで熊などを見かけたポイントを書き込んだものがこれ。
+![Route Map](/images/ak032.jpg)
+
+最初のポイントであるSouth Marble Islandには陸地から離れた独自の生態系があり、様々な種類の鳥もここで羽を休めているらしく、イラストを使って特徴を説明したりクイズを出してくれる。島に近づくと大音量のSea Lionの鳴き声が聞こえてくるし、ペンギンの仲間で見つけにくいと言っていた飛べる鳥も目にすることができた。
+
+![Sea Lion](/images/ak021.jpg)
+![ペンギンの仲間](/images/ak022.jpg)
+
+South Marble Islandを過ぎると、North Sandy Coveに近づきバックカントリーのキャンプ者が待っていないかを念のため確認する。再び北上し、Tlingit Point付近ではHumpback(座頭鯨)も見ることができた。更に北上していくとGloomy Knobの岸壁にポツポツとMountain Goatを見ることができる。
+
+![Mountain Goat](/images/ak023.jpg)
+
+どんどん北上を続けRussell Island付近の海岸ではBrown Bearの姿も確認。堂々とゆっくりとした歩きは遠くから見ていてもかっこいい。
+
+![Brown Bear](/images/ak024.jpg)
+
+途中、船は小型ボートの救助も行った。ゴムボートに2組の老夫婦を乗せ替えてこちらの船に移す。後で空港へ向かう送迎車が一緒になったので聞いたら、エンジントラブルでボートが動けなくなり、一晩過ごしたらしい。いたって元気そうで何よりだった。
+
+![Help](/images/ak025.jpg)
+
+Glacier Bay最深部に着くと、右側にはもう海からは見えないほど後退してしまったGrand Pacific Glacierと、左側にMargerie Glacierという圧倒的な迫力の光景に対面する。
+
+![Margerie Glacier](/images/ak026.jpg)
+
+長い年月をかけて圧縮され空気などが押し出されて透明度が高くなった氷河は、光は奥深くまで入り込み赤は吸収され青く見える。なんと美しいものだろう。
+
+![Margerie Glacier](/images/ak027.jpg)
+![Margerie Glacier](/images/ak028.jpg)
+
+Margerie Glacierの前で40分ほど船は停止し、みんな思い思いにデッキで氷河に見惚れている。何度か小さい氷河の崩落があり、その直前にガラガラッという音が聞こえる。何度か目に動画で撮影している時、右側で少し大きな崩落があった。と同時にその上の裂け目が少し開いた気がしたので、そのまま撮影を続けていると、お、お、お！かなり大きい崩落を目の当たりにし、みんなで大騒ぎ。少し大きな波も船に押し寄せてくる。周りの数組は動画を撮るのに失敗していて、見せてくれ！送ってくれ！と興奮の中で電話番号を交換した。
 
 [![Margerie Glacier Icefalls](https://img.youtube.com/vi/VuTMEudGBSM/hqdefault.jpg)](https://www.youtube.com/embed/VuTMEudGBSM)
 
-![Margerie Glacier after Icefalls](https://github.com/mhatada/note/blob/master/images/ak029.jpg)
-![Lamplugh Glacier a.k.a. Blue Glacier](https://github.com/mhatada/note/blob/master/images/ak030.jpg)
+大きな氷河の崩落の後、その場所に近づいていくと、砕けた氷河が水面に散乱しており幻想的な光景を作っていた。スタッフが拾い上げた氷河のかけらをみんなに回して写真を撮ったりもした。持ち上げてみると当たり前に冷たいし重い。
+
+![Margerie Glacier after Icefalls](/images/ak029.jpg)
+
+感動的な氷河の崩落がまだありありと目に浮かぶものの、船はMargerie Glacierを離れて南下していく。次に待ち構えていたのは青の氷河とも呼ばれるLamplugh Glacier。これだけ曇っていても全体が広く青いのがわかるのだから、晴れ間があればなお青さが際立つだろう。
+
+![Lamplugh Glacier a.k.a. Blue Glacier](/images/ak030.jpg)
+
+ランチとしてサンドイッチとポテチ、コーヒーを受け取り、ついでに赤ワインも書い氷河クルーズに大満足していると、Geikie Inletの北側の海岸で悠々と歩くBlack Bearを発見。
 
 [![Black Bear walking on the shore](https://img.youtube.com/vi/tAu0AkFHScY/hqdefault.jpg)](https://www.youtube.com/embed/tAu0AkFHScY)
 
-![Falls](https://github.com/mhatada/note/blob/master/images/ak031.jpg)
-![Route Map](https://github.com/mhatada/note/blob/master/images/ak032.jpg)
-![St. Theodosius](https://github.com/mhatada/note/blob/master/images/ak033.jpg)
+濃い緑の隙間で、雪解けの水があちらこちらで滝を作り出し、海に注ぐ。
 
-From Gustavus to Juneau
+![Falls](/images/ak031.jpg)
 
-![Mendenhall Glacier](https://github.com/mhatada/note/blob/master/images/ak034.jpg)
+ほぼ予定通り3時半ごろにBartlett Coveに帰り着き、素晴らしい氷河クルーズを楽しませてくれたSt. Theodosius号とレンジャーのColleen、他のスタッフに感謝。
 
-At the Alaskan Hotel and Bar
+![St. Theodosius](/images/ak033.jpg)
 
-![Juneauper](https://github.com/mhatada/note/blob/master/images/ak035.jpg)
+でも、余韻に浸っている暇はない。ロッジに戻って預けたバックパックを受け取り、Gustavusの空港に向かわねば。すると桟橋を渡ったところでロッジのバンが待っていて、この後空港に向かうから乗れ、と。救助された4人と一緒に乗り込み、ロッジに寄ってもらって、Juneauへのセスナに十分間に合う時間にGustavusの空港に着いた。小雨の中、セスナはGustavusを発ち、Juneauへ。着陸直前には遠くにMendenhall Glacierも見えた。こう見ると氷河の壮大さがよくわかる。
+
+![Mendenhall Glacier](/images/ak034.jpg)
+
+空港から少し歩いてGlacier Highwayに出てWells Fargoの向かいにあるバス停から路線バス(No.3, 4 or Express)に乗ってDowntown Transit Centerへ。再びthe Alaskan Hotelにチェックインして、瀬ホテル内にあるランドリーで洗濯していたら、思っていた以上に25Cコインが必要で、ホテルのBarでお願いして両替してもらった。フードは無いということなので、外でさっさと食事を済ませ、Barに飲みに。ビール以外でローカルの酒を尋ねたところJuneauperというジンが出てきた。テイスティングさせてもらうと、ほんのり甘味もありスッキリしててなかなか美味い。今思えば買ってくれば良かった。
+
+![Juneauper](/images/ak035.jpg)
 
 
 ## Day 6 (June 4, 2021)
 
-Treadwell Historic Mine Trail
+予定通り昨夜Juneauに帰って来れたので予備日だった今日は何をしよう。Margerie Glacierの崩落動画を送ってあげた一人から、おすすめされていた一つである[Treadwell Historic Mine Trail](https://www.alaska.org/guide/treadwell-mine-historic-trail-walking-tour)に行ってみることに。ダウンタウンの向かいにあるダグラス島の少し南側にあり、路線バスNo.1で行ける。ここは、かつて金鉱があった場所で、2,000人の労働者によって7,000万ドルの金が取り出されたらしい。Treadwell社が作り上げた発電所や砕石場の跡、当時使われていた鉱山機械などを見ることができる。
 
-![XX](https://github.com/mhatada/note/blob/master/images/ak036.jpg)
-![XX](https://github.com/mhatada/note/blob/master/images/ak037.jpg)
-![XX](https://github.com/mhatada/note/blob/master/images/ak038.jpg)
-![XX](https://github.com/mhatada/note/blob/master/images/ak039.jpg)
-![XX](https://github.com/mhatada/note/blob/master/images/ak040.jpg)
-![XX](https://github.com/mhatada/note/blob/master/images/ak041.jpg)
+![240-Stamp Mill](/images/ak036.jpg)
+![Ore Bin](/images/ak037.jpg)
+![Power Plant](/images/ak038.jpg)
+![Vanner Room](/images/ak039.jpg)
+![Pump House](/images/ak040.jpg)
+![Stamp Mill](/images/ak041.jpg)
 
-Perseverance Trail
+まだ午後早いが特にやることもないので、ダウンタウンに戻って裏山にあるPerseverance Trailを歩いて、[Last Chance Mining Museum](https://www.alaska.org/detail/last-chance-mining-museum)に向かってみることにした。Gold Creek沿いのトレイルを登っていき、今は封鎖しているトンネルの入り口を横目にMuseumに着いてみると、もう閉まっていた。残念。
 
-![Gold Creek](https://github.com/mhatada/note/blob/master/images/ak042.jpg)
-![Tunnel](https://github.com/mhatada/note/blob/master/images/ak043.jpg)
+![Gold Creek](/images/ak042.jpg)
+![Tunnel](/images/ak043.jpg)
 
-Juneau Downtown
+ダウンタウンにある一度は行っておきたいレストランは[Tracy's King Crab Shack](https://www.kingcrabshack.com/express-location)だろう。ズワイガニの足、クラブケーキ、スープのセットで$55、全部アツアツが美味くて急いで食べるしかない。
 
-![Tracy's King Crab Shack](https://github.com/mhatada/note/blob/master/images/ak044.jpg)
-![Steps](https://github.com/mhatada/note/blob/master/images/ak045.jpg)
-![Juneau Downtown](https://github.com/mhatada/note/blob/master/images/ak046.jpg)
+![Tracy's King Crab Shack](/images/ak044.jpg)
+
+ダウンタウンの中心部。The Alaskan Hotelも真ん中にある。22時頃日の入、3時頃には日の出なので雲に覆われていることもあり夜中も真っ暗にはならないし、Alaskan HotelのBarは金曜夜がオープンマイクらしくて深夜までうるさい。通りでは叫んでるやつもいるし、店の軒先には座り込んでる人たちもちょくちょくいて治安は微妙だけど怖さは感じない。
+
+![Juneau Downtown](/images/ak046.jpg)
+
+ダウンタウンは海沿いの狭い平地に広がっているため、すぐ裏は急斜面。建物と建物の間に裏への道というか長い階段が至るところにある。
+
+![Steps](/images/ak045.jpg)
+
 
 
 ## Day 7 (June 5, 2021)
 
-移動。
-JNU->SEA->IAD。
+朝3時、Raulに予約してたのに来ない。電話したら別のドライバーが向かってると。15分ほどしてタクシーが来て空港へ。その後、何事もなくシアトル経由でワシントンDCに帰り着いた。
+
+振り返ると、とても素晴らしいアラスカ旅行だった。メインである氷河クルーズを含むGlacier Bay National Park滞在2泊3日はもう数日いたかったと正直思う。ただGustavusへのフライトなど天候に大きく左右されるため、前後に余裕のある日程を組まざるをえないので、仕方ないところ。「海に迫り出す氷河」ようやく見ることができた。やはり旅は楽しい。
